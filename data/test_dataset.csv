@@ -1,0 +1,508 @@
+dish_id,total_calories,total_mass,ingredient_names,image_path
+dish_1561662216,300.794281,193.0,soysauce garlic whiterice parsley onions brownrice vinegar apple mixedgreens sugar salt lemonjuice oliveoil pork bokchoy pepper millet,./data/images/dish_1561662216/rgb.png
+dish_1562008979,382.936646,290.0,jalapenos lemonjuice pork wheatberry cabbage pepper salt carrot garlic caesarsalad oliveoil parsley mayonnaise,./data/images/dish_1562008979/rgb.png
+dish_1561739238,274.190002,257.0,eggwhites hashbrowns berries sweetpotato,./data/images/dish_1561739238/rgb.png
+dish_1562691032,419.681702,415.0,berries oliveoil pineapple scrambledeggs roastedpotatoes broccoli,./data/images/dish_1562691032/rgb.png
+dish_1558549773,2.3,10.0,spinachraw,./data/images/dish_1558549773/rgb.png
+dish_1566920365,490.421692,871.0,salsa sweetpotato oliveoil eggwhites,./data/images/dish_1566920365/rgb.png
+dish_1563984242,402.117035,753.0,sweetpotato eggwhites pineapple oliveoil cantaloupe,./data/images/dish_1563984242/rgb.png
+dish_1563998323,634.505066,574.0,roastedpotatoes shallots oliveoil tatsoi butter jalapenos wheatberry mushroom steak oregano chicken pepper salt garlic whitewine cilantro vinegar thyme lemonjuice rosemary arugula basil brownrice cream parsley cauliflower,./data/images/dish_1563998323/rgb.png
+dish_1563996485,178.039185,201.0,salt pepper blueberries chard arugula vinegar mustard oliveoil walnuts roastedpotatoes cauliflower,./data/images/dish_1563996485/rgb.png
+dish_1559239151,9.2,40.0,spinachraw,./data/images/dish_1559239151/rgb.png
+dish_1563998210,148.089218,91.0,garlic oliveoil thyme lemonjuice butter cream oregano chicken pepper whitewine shallots arugula rosemary mushroom basil wheatberry salt,./data/images/dish_1563998210/rgb.png
+dish_1558376306,372.167999,108.0,sausage,./data/images/dish_1558376306/rgb.png
+dish_1558114086,74.360001,143.0,deprecated,./data/images/dish_1558114086/rgb.png
+dish_1558720236,887.823059,407.0,apple carrot cauliflower almonds,./data/images/dish_1558720236/rgb.png
+dish_1562618000,685.993896,448.0,vinegar oliveoil garlic mustardgreens pepper salt radishes lemonjuice thyme brownrice parsley basil arugula chickenthighs chickpeas broccoli,./data/images/dish_1562618000/rgb.png
+dish_1562617703,179.630005,110.0,frozenyogurt,./data/images/dish_1562617703/rgb.png
+dish_1566502505,454.517365,275.0,sundriedtomatoes bokchoy pork cornonthecob cucumbers onions salt soysauce garlic sugar pepper whiterice vinegar spinachraw mustard oliveoil,./data/images/dish_1566502505/rgb.png
+dish_1566849923,127.970001,240.0,olives cherrytomatoes carrot,./data/images/dish_1566849923/rgb.png
+dish_1566502537,517.644226,315.0,cornonthecob vinegar parsley sundriedtomatoes rosemary carrot salt garlic mustard cucumbers lemonjuice oliveoil chive pork chicken spinachraw pepper bokchoy whiterice brownrice soysauce chard sugar onions basil,./data/images/dish_1566502537/rgb.png
+dish_1566838407,358.947601,558.0,pineapple scrambledeggs sweetpotato berries oliveoil watermelon,./data/images/dish_1566838407/rgb.png
+dish_1562099053,98.382996,37.0,cheesepizza,./data/images/dish_1562099053/rgb.png
+dish_1558546663,330.734009,197.0,spinachraw almonds apple,./data/images/dish_1558546663/rgb.png
+dish_1568305257,837.147766,420.0,turkeybacon salt bellpeppers mustard oliveoil cucumbers vinegar scrambledeggs garlic radishes,./data/images/dish_1568305257/rgb.png
+dish_1564689108,203.66246,159.0,chickpeas salt garlic blueberries pepper pears arugula mustard oliveoil parsley almonds vinegar spinachraw lemonjuice carrot,./data/images/dish_1564689108/rgb.png
+dish_1565898158,240.425751,194.0,cilantro ginger spinachraw jalapenos lemonjuice lime salt onions shallots garlic salmon greenbeans brownrice oliveoil chili,./data/images/dish_1565898158/rgb.png
+dish_1558719994,768.873047,133.0,almonds,./data/images/dish_1558719994/rgb.png
+dish_1558031302,56.98,74.0,potatoes,./data/images/dish_1558031302/rgb.png
+dish_1560368464,349.449951,275.0,oliveoil brownrice vinegar cherrytomatoes honeydewmelons shallots parsley basil lemonjuice onions pork pepper garlic broccoli salt,./data/images/dish_1560368464/rgb.png
+dish_1563551194,471.643555,400.0,oliveoil sweetpotato eggwhites bagels greekyogurt chiaseeds milk creamcheese,./data/images/dish_1563551194/rgb.png
+dish_1559849412,352.641022,61.0,almonds,./data/images/dish_1559849412/rgb.png
+dish_1560801773,13.5,54.0,cauliflower,./data/images/dish_1560801773/rgb.png
+dish_1566502573,821.510193,487.0,chive bokchoy chicken whiterice pork arugula spinachraw brownrice chard mustard oliveoil garlic cucumbers sugar rosemary pepper sundriedtomatoes lemonjuice mustardgreens parsley vinegar cornonthecob basil onions carrot soysauce salt chickpeas,./data/images/dish_1566502573/rgb.png
+dish_1568401261,530.393372,443.0,salt squash carrot avocado tunasalad oliveoil,./data/images/dish_1568401261/rgb.png
+dish_1558461431,1.15,5.0,spinachraw,./data/images/dish_1558461431/rgb.png
+dish_1562790824,437.071686,368.0,salt bellpeppers garlic mustard cucumbers oliveoil vinegar countryrice onions greenonions fish radishes,./data/images/dish_1562790824/rgb.png
+dish_1558718610,113.527,107.0,cornonthecob,./data/images/dish_1558718610/rgb.png
+dish_1560975517,42.389999,99.0,broccoli caesarsalad,./data/images/dish_1560975517/rgb.png
+dish_1558639787,24.75,99.0,cauliflower,./data/images/dish_1558639787/rgb.png
+dish_1560203424,451.753998,138.0,pepperonipizza brownies,./data/images/dish_1560203424/rgb.png
+dish_1562776497,291.832458,292.0,pepper oliveoil brusselssprouts sweetpotato scrambledeggs salt,./data/images/dish_1562776497/rgb.png
+dish_1560444869,14.040001,39.0,honeydewmelons,./data/images/dish_1560444869/rgb.png
+dish_1564773903,316.827545,336.0,cherrytomatoes lentils salmon arugula pineapple parsley kale oliveoil shallots pepper pickles salt mayonnaise lemonjuice broccoli garlic chive,./data/images/dish_1564773903/rgb.png
+dish_1561661347,50.669998,132.0,greenbeans caesarsalad,./data/images/dish_1561661347/rgb.png
+dish_1558722247,604.616028,343.0,almonds cauliflower apple,./data/images/dish_1558722247/rgb.png
+dish_1565811091,504.400024,371.0,broccoli spinachraw carrot chicken goatcheese,./data/images/dish_1565811091/rgb.png
+dish_1557861216,0.0,1.0,plateonly,./data/images/dish_1557861216/rgb.png
+dish_1563220987,224.987503,110.0,oliveoil arugula pork salt onions parsley zucchini rosemary garlic whiterice,./data/images/dish_1563220987/rgb.png
+dish_1563984140,245.439987,472.0,eggwhites,./data/images/dish_1563984140/rgb.png
+dish_1562774099,51.993542,40.0,raspberries vinaigrette mixedgreens granola blackberries,./data/images/dish_1562774099/rgb.png
+dish_1560444892,39.540001,90.0,honeydewmelons pineapple,./data/images/dish_1560444892/rgb.png
+dish_1561662814,23.243509,20.0,oliveoil salt lemonjuice onions parsley mixedgreens apple millet vinegar,./data/images/dish_1561662814/rgb.png
+dish_1558549413,682.15802,118.0,almonds,./data/images/dish_1558549413/rgb.png
+dish_1561574368,22.0,50.0,caesarsalad,./data/images/dish_1561574368/rgb.png
+dish_1567007751,39.93,87.0,berries cantaloupe,./data/images/dish_1567007751/rgb.png
+dish_1558373159,1013.337036,334.0,sausage deprecated almonds,./data/images/dish_1558373159/rgb.png
+dish_1557862738,319.779999,118.0,steak,./data/images/dish_1557862738/rgb.png
+dish_1560444948,171.316879,231.0,cucumbers watermelon pineapple scrambledeggs radishes salt garlic honeydewmelons oliveoil bellpeppers mustard vinegar,./data/images/dish_1560444948/rgb.png
+dish_1560367952,414.733154,221.0,fish spinachraw pizza onions countryrice oliveoil salt garlic greenonions,./data/images/dish_1560367952/rgb.png
+dish_1568401302,716.47937,561.0,friedrice salt squash carrot avocado oliveoil tunasalad,./data/images/dish_1568401302/rgb.png
+dish_1558630288,7.106,11.0,gardensalad,./data/images/dish_1558630288/rgb.png
+dish_1563998513,757.505066,599.0,chicken pepper cookies brownrice arugula vinegar oregano tatsoi oliveoil basil cilantro whitewine salt roastedpotatoes garlic shallots cauliflower mushroom steak jalapenos cream wheatberry thyme butter rosemary lemonjuice parsley,./data/images/dish_1563998513/rgb.png
+dish_1558544663,141.440002,208.0,oatmeal,./data/images/dish_1558544663/rgb.png
+dish_1562691064,555.303711,501.0,berries friedrice oliveoil pineapple scrambledeggs roastedpotatoes broccoli,./data/images/dish_1562691064/rgb.png
+dish_1559233715,83.599998,110.0,sweetpotato,./data/images/dish_1559233715/rgb.png
+dish_1566328724,275.549988,167.0,chicken,./data/images/dish_1566328724/rgb.png
+dish_1559842047,153.690002,285.0,broccoli pears mandarinoranges,./data/images/dish_1559842047/rgb.png
+dish_1560975572,96.990005,159.0,caesarsalad wheatberry broccoli,./data/images/dish_1560975572/rgb.png
+dish_1566328776,901.810059,436.0,chicken cherrytomatoes pizza,./data/images/dish_1566328776/rgb.png
+dish_1566316681,116.762924,122.0,sweetpotato oliveoil,./data/images/dish_1566316681/rgb.png
+dish_1564687090,498.018677,416.0,fish millet whiterice ketchup steak spinachraw jalapenos onions wheatberry oliveoil bellpeppers cilantro vinegar kale greenbeans lime shallots salt,./data/images/dish_1564687090/rgb.png
+dish_1565894910,537.113037,179.0,pizza cheesepizza cookies,./data/images/dish_1565894910/rgb.png
+dish_1561654326,59.79258,46.0,vinaigrette granola blackberries mixedgreens raspberries,./data/images/dish_1561654326/rgb.png
+dish_1565974375,459.849976,85.0,bacon,./data/images/dish_1565974375/rgb.png
+dish_1560368506,462.933777,378.0,brownrice fish shallots honeydewmelons broccoli lemonjuice parsley pork vinegar cherrytomatoes pepper garlic salt countryrice basil oliveoil onions greenonions,./data/images/dish_1560368506/rgb.png
+dish_1562085672,122.084,46.0,bread,./data/images/dish_1562085672/rgb.png
+dish_1561148042,370.755463,245.0,raspberries groundturkey cream greenbeans celery chard garlic zucchini almonds oliveoil carrot thyme kale salt whiterice eggs blueberries mustard arugula vinegar mushroom onions cheesepizza chive,./data/images/dish_1561148042/rgb.png
+dish_1566328831,941.609985,500.0,pizza cherrytomatoes chicken pineapple olives,./data/images/dish_1566328831/rgb.png
+dish_1558461692,231.240005,40.0,almonds,./data/images/dish_1558461692/rgb.png
+dish_1565035715,15.6,39.0,onions,./data/images/dish_1565035715/rgb.png
+dish_1566590056,815.647644,519.0,tomatoes pepper millet vinegar tofu jalapenos mustard oliveoil bellpeppers cherrytomatoes chicken chard spinachraw pizza cucumbers onions garlic salt figs,./data/images/dish_1566590056/rgb.png
+dish_1566590007,740.762024,457.0,bellpeppers garlic tomatoes salt onions oliveoil pizza pepper tofu jalapenos spinachraw chicken millet,./data/images/dish_1566590007/rgb.png
+dish_1558635400,25.0,100.0,cauliflower,./data/images/dish_1558635400/rgb.png
+dish_1557937335,47.158001,38.0,yam,./data/images/dish_1557937335/rgb.png
+dish_1564428144,205.212921,171.0,garlic shallots parsley salt mustard pecans thyme oliveoil blueberries arugula vinegar chard lemonjuice quinoa,./data/images/dish_1564428144/rgb.png
+dish_1558635618,220.253998,334.0,cornonthecob apple whiterice cauliflower,./data/images/dish_1558635618/rgb.png
+dish_1565034635,124.089249,110.0,cherrytomatoes vinegar chard blueberries cucumbers salt lettuce walnuts lime pepper arugula oliveoil mustard onions mixedgreens,./data/images/dish_1565034635/rgb.png
+dish_1566328805,927.809998,488.0,cherrytomatoes pizza chicken pineapple,./data/images/dish_1566328805/rgb.png
+dish_1565974409,688.649963,228.0,chickenapplesausage bacon,./data/images/dish_1565974409/rgb.png
+dish_1563478751,950.395081,545.0,cream mushroom spinachraw oliveoil pasta beef wine garlic sourcream onions thyme salt,./data/images/dish_1563478751/rgb.png
+dish_1564773876,258.327576,219.0,cherrytomatoes pepper salmon lentils lemonjuice parsley chive broccoli pickles mayonnaise kale arugula oliveoil salt garlic shallots,./data/images/dish_1564773876/rgb.png
+dish_1561148021,361.765411,216.0,garlic mushroom chard chive oliveoil onions raspberries mustard salt cheesepizza kale whiterice eggs cream vinegar arugula thyme blueberries almonds zucchini groundturkey celery carrot,./data/images/dish_1561148021/rgb.png
+dish_1558030435,246.940002,221.0,honeydewmelons potatoes bacon,./data/images/dish_1558030435/rgb.png
+dish_1562617939,234.966125,133.0,chickpeas salt mustardgreens oliveoil parsley vinegar arugula pepper,./data/images/dish_1562617939/rgb.png
+dish_1563208459,186.485947,161.0,raspberries yam sweetpotato oliveoil chickenapplesausage,./data/images/dish_1563208459/rgb.png
+dish_1563389626,498.620026,360.0,salt pepper grilledchicken carrot oliveoil cherrytomatoes,./data/images/dish_1563389626/rgb.png
+dish_1566316757,448.382874,819.0,sweetpotato eggwhites oliveoil salsa,./data/images/dish_1566316757/rgb.png
+dish_1558641320,211.589996,336.0,apple carrot cornonthecob cherrytomatoes,./data/images/dish_1558641320/rgb.png
+dish_1563909469,72.402824,64.0,tomatoes spinachraw vinegar cucumbers oliveoil mustardgreens mustard garlic salt,./data/images/dish_1563909469/rgb.png
+dish_1566850099,113.057968,112.0,onions cucumbers oliveoil salt mixedgreens lettuce lime cherrytomatoes pepper vinegar,./data/images/dish_1566850099/rgb.png
+dish_1558549605,97.5,75.0,whiterice,./data/images/dish_1558549605/rgb.png
+dish_1561578865,417.185303,246.0,cheese pasta spinachraw oliveoil blueberries salt broccoli pesto vinegar cherrytomatoes pepper arugula chard onions mustard cheesepizza walnuts,./data/images/dish_1561578865/rgb.png
+dish_1561574428,84.002373,172.0,walnuts caesarsalad salt mustard oliveoil blueberries chard arugula vinegar pepper cauliflower,./data/images/dish_1561574428/rgb.png
+dish_1562786103,93.081001,57.0,frozenyogurt,./data/images/dish_1562786103/rgb.png
+dish_1566587102,213.599411,146.0,chicken millet pepper spinachraw jalapenos oliveoil garlic onions salt tomatoes bellpeppers,./data/images/dish_1566587102/rgb.png
+dish_1566502437,74.564041,64.0,vinegar spinachraw sundriedtomatoes garlic onions cucumbers mustard salt oliveoil,./data/images/dish_1566502437/rgb.png
+dish_1560367980,421.465118,254.0,asparagus salt onions countryrice oliveoil greenonions pizza spinachraw fish garlic,./data/images/dish_1560367980/rgb.png
+dish_1565711570,603.827271,324.0,salt pepper brusselssprouts scrambledeggs oliveoil hashbrowns bacon,./data/images/dish_1565711570/rgb.png
+dish_1558639876,68.18,215.0,carrot cantaloupe cauliflower,./data/images/dish_1558639876/rgb.png
+dish_1566838378,286.210022,482.0,scrambledeggs watermelon berries pineapple,./data/images/dish_1566838378/rgb.png
+dish_1557937037,25.969999,49.0,raspberries,./data/images/dish_1557937037/rgb.png
+dish_1562008936,57.639999,131.0,caesarsalad,./data/images/dish_1562008936/rgb.png
+dish_1558376364,48.990002,71.0,grapes,./data/images/dish_1558376364/rgb.png
+dish_1560801041,432.244263,292.0,pork zucchini arugula chickenbreast cherrytomatoes rosemary lemonjuice thyme oliveoil onions wheatberry parmesancheese pepper spinachraw cauliflower garlic chickpeas whiterice salt bulgur parsley kale,./data/images/dish_1560801041/rgb.png
+dish_1563897047,66.040001,127.0,eggwhites,./data/images/dish_1563897047/rgb.png
+dish_1560526552,359.240814,319.0,salt sausage pineapple blueberries spinachraw parsley mustardgreens potatoes berries tomatoes scrambledeggs vinegar mustard cucumbers almonds oliveoil garlic carrot,./data/images/dish_1560526552/rgb.png
+dish_1562703408,311.209167,196.0,onions spinachcooked shallots berries salt pizza oliveoil vinegar bokchoy millet beef,./data/images/dish_1562703408/rgb.png
+dish_1562172600,263.599976,370.0,eggwhites roastedpotatoes,./data/images/dish_1562172600/rgb.png
+dish_1561574783,29.626781,24.0,salt mustard blueberries pepper arugula chard vinegar oliveoil walnuts,./data/images/dish_1561574783/rgb.png
+dish_1560444985,198.937866,264.0,honeydewmelons pineapple radishes bokchoy vinegar watermelon yam mustard oliveoil cucumbers garlic bellpeppers salt scrambledeggs,./data/images/dish_1560444985/rgb.png
+dish_1565035858,375.227997,531.0,cherrytomatoes chickenbreast watermelon bellpeppers cauliflower onions,./data/images/dish_1565035858/rgb.png
+dish_1565811061,380.320007,324.0,chicken carrot spinachraw broccoli,./data/images/dish_1565811061/rgb.png
+dish_1559844490,108.360001,180.0,grapes mandarinoranges,./data/images/dish_1559844490/rgb.png
+dish_1558720097,30.34,74.0,carrot,./data/images/dish_1558720097/rgb.png
+dish_1566851616,300.7789,248.0,caesarsalad broccoli cheesepizza oliveoil,./data/images/dish_1566851616/rgb.png
+dish_1561662190,117.318321,104.0,salt brownrice mixedgreens oliveoil parsley onions lemonjuice vinegar millet apple,./data/images/dish_1561662190/rgb.png
+dish_1565030350,62.585663,62.0,lettuce mixedgreens lime salt cucumbers onions oliveoil vinegar pepper cherrytomatoes,./data/images/dish_1565030350/rgb.png
+dish_1562774129,73.083549,77.0,berries vinaigrette granola blackberries mixedgreens raspberries,./data/images/dish_1562774129/rgb.png
+dish_1559849466,467.613037,262.0,pears almonds,./data/images/dish_1559849466/rgb.png
+dish_1561739212,134.01001,214.0,berries eggwhites sweetpotato,./data/images/dish_1561739212/rgb.png
+dish_1563565454,350.788818,322.0,carrot cherrytomatoes fish chard mushroom wheatberry groundturkey thyme bokchoy lemonjuice kale arugula salt pecans blueberries mustard eggs cornonthecob vinegar cream onions celery oliveoil parsley chive shallots garlic whiterice,./data/images/dish_1563565454/rgb.png
+dish_1561661377,306.333679,294.0,garlic chard brownrice greenbeans chicken salt carrot caesarsalad parsley chive rosemary basil lemonjuice oliveoil,./data/images/dish_1561661377/rgb.png
+dish_1559233570,16.83,51.0,strawberries,./data/images/dish_1559233570/rgb.png
+dish_1558113941,296.890015,78.0,mixedgreens almonds,./data/images/dish_1558113941/rgb.png
+dish_1558110385,52.869999,34.0,eggs,./data/images/dish_1558110385/rgb.png
+dish_1566850031,616.771973,662.0,olives carrot chicken caesardressing cherrytomatoes onions,./data/images/dish_1566850031/rgb.png
+dish_1562690886,20.611706,37.0,broccoli oliveoil,./data/images/dish_1562690886/rgb.png
+dish_1563565323,229.530243,152.0,eggs cornonthecob groundturkey thyme kale celery salt carrot whiterice mushroom cream onions oliveoil chive garlic,./data/images/dish_1563565323/rgb.png
+dish_1561739188,97.089996,143.0,berries sweetpotato,./data/images/dish_1561739188/rgb.png
+dish_1564687046,374.793854,308.0,whiterice salt shallots oliveoil onions jalapenos steak greenbeans bellpeppers millet cilantro kale ketchup vinegar spinachraw fish lime,./data/images/dish_1564687046/rgb.png
+dish_1563208412,62.400002,39.0,chickenapplesausage,./data/images/dish_1563208412/rgb.png
+dish_1562790775,75.686295,40.0,bellpeppers cucumbers salt mustard garlic oliveoil vinegar radishes,./data/images/dish_1562790775/rgb.png
+dish_1565811139,902.200012,416.0,carrot goatcheese oliveoil broccoli spinachraw chicken,./data/images/dish_1565811139/rgb.png
+dish_1558641164,80.079994,154.0,apple,./data/images/dish_1558641164/rgb.png
+dish_1558461607,87.629997,127.0,grapes,./data/images/dish_1558461607/rgb.png
+dish_1559157454,34.564575,28.0,arugula chard vinegar pepper walnuts salt mustard oliveoil blueberries,./data/images/dish_1559157454/rgb.png
+dish_1561405389,265.983459,223.0,whiterice chickpeas soysauce arugula ginger spinachraw parsley pears broccoli garlic salt pepper vinegar greenbeans oliveoil lemonjuice greenonions chicken,./data/images/dish_1561405389/rgb.png
+dish_1560526514,183.252747,224.0,potatoes cucumbers mustardgreens oliveoil almonds carrot berries pineapple blueberries parsley mustard garlic salt tomatoes spinachraw vinegar,./data/images/dish_1560526514/rgb.png
+dish_1560368019,436.965942,301.0,pizza salt greenonions onions oliveoil countryrice eggplant spinachraw fish asparagus garlic,./data/images/dish_1560368019/rgb.png
+dish_1562703382,203.869995,145.0,pizza berries,./data/images/dish_1562703382/rgb.png
+dish_1563909507,117.925575,151.0,mustard garlic tomatoes salt cucumbers oliveoil mustardgreens spinachraw vinegar greenbeans,./data/images/dish_1563909507/rgb.png
+dish_1566587143,354.399445,234.0,bellpeppers chicken tomatoes onions salt oliveoil avocado jalapenos spinachraw pepper garlic millet,./data/images/dish_1566587143/rgb.png
+dish_1565811000,342.850006,225.0,chicken spinachraw,./data/images/dish_1565811000/rgb.png
+dish_1561393764,280.799988,182.0,broccoli scrambledeggs bacon,./data/images/dish_1561393764/rgb.png
+dish_1565035802,69.200005,250.0,onions cherrytomatoes cauliflower bellpeppers,./data/images/dish_1565035802/rgb.png
+dish_1558717604,73.839996,142.0,apple,./data/images/dish_1558717604/rgb.png
+dish_1562168696,95.114838,141.0,raspberries vinaigrette berries granola blackberries mixedgreens honeydewmelons,./data/images/dish_1562168696/rgb.png
+dish_1565035830,340.127991,414.0,cherrytomatoes chickenbreast bellpeppers cauliflower onions,./data/images/dish_1565035830/rgb.png
+dish_1562788601,413.170135,287.0,fish vinegar cornonthecob brownrice countryrice basil greenonions salt cherrytomatoes pepper pork lemonjuice parsley pilaf oliveoil onions garlic broccoli shallots,./data/images/dish_1562788601/rgb.png
+dish_1561405356,206.645203,176.0,ginger vinegar oliveoil garlic soysauce broccoli greenonions salt chicken whiterice spinachraw greenbeans,./data/images/dish_1561405356/rgb.png
+dish_1557937079,146.069992,27.0,bacon,./data/images/dish_1557937079/rgb.png
+dish_1562168648,41.594833,32.0,vinaigrette raspberries mixedgreens granola blackberries,./data/images/dish_1562168648/rgb.png
+dish_1558376734,206.76001,60.0,sausage,./data/images/dish_1558376734/rgb.png
+dish_1563221086,328.277618,254.0,onions cranberries arugula cherrytomatoes chickenbreast whiterice vinegar apple garlic salt parsley zucchini rosemary oliveoil thyme wheatberry pork spinachraw parmesancheese mustard broccoli,./data/images/dish_1563221086/rgb.png
+dish_1564427406,305.370026,135.0,grilledchicken,./data/images/dish_1564427406/rgb.png
+dish_1566414225,125.182129,88.0,oliveoil quinoa,./data/images/dish_1566414225/rgb.png
+dish_1558635546,60.839996,117.0,apple,./data/images/dish_1558635546/rgb.png
+dish_1565020867,255.804886,325.0,eggwhites berries bacon sweetpotato oliveoil,./data/images/dish_1565020867/rgb.png
+dish_1564773847,238.027573,161.0,garlic shallots pepper salmon cherrytomatoes oliveoil parsley chive lemonjuice pickles mayonnaise arugula lentils kale salt,./data/images/dish_1564773847/rgb.png
+dish_1564675411,235.531006,308.0,eggwhites turkeybacon,./data/images/dish_1564675411/rgb.png
+dish_1566851549,226.014999,85.0,cheesepizza,./data/images/dish_1566851549/rgb.png
+dish_1566501594,508.048981,109.0,brownies,./data/images/dish_1566501594/rgb.png
+dish_1558630325,751.541992,269.0,apple gardensalad almonds,./data/images/dish_1558630325/rgb.png
+dish_1560368570,555.932739,452.0,honeydewmelons pepper cherrytomatoes lettuce mixedgreens pork mustard oliveoil lemonjuice onions carrot broccoli greenonions shallots arugula vinegar brownrice fish pumpkinseeds basil parsley countryrice salt garlic,./data/images/dish_1560368570/rgb.png
+dish_1559844366,529.220032,192.0,almonds broccoli grapes,./data/images/dish_1559844366/rgb.png
+dish_1559849497,521.433044,340.0,almonds pears grapes,./data/images/dish_1559849497/rgb.png
+dish_1561741063,132.300003,135.0,cottagecheese,./data/images/dish_1561741063/rgb.png
+dish_1560444931,112.660004,200.0,watermelon honeydewmelons pineapple scrambledeggs,./data/images/dish_1560444931/rgb.png
+dish_1561577947,623.204285,424.0,oliveoil basil arugula blueberries vinegar mustard walnuts whitewine salt rosemary oregano cream mushroom wheatberry chard pepper chicken shallots garlic butter lemonjuice thyme,./data/images/dish_1561577947/rgb.png
+dish_1564588859,183.586426,257.0,eggwhites greekyogurt milk chiaseeds,./data/images/dish_1564588859/rgb.png
+dish_1565898361,370.671448,202.0,brownrice ginger vinegar beef salmon spinachcooked millet lime onions spinachraw jalapenos bokchoy shallots garlic chili cilantro salt lemonjuice oliveoil,./data/images/dish_1565898361/rgb.png
+dish_1558718680,132.962997,23.0,almonds,./data/images/dish_1558718680/rgb.png
+dish_1563996509,365.184875,316.0,walnuts cauliflower oregano arugula mushroom chard wheatberry garlic shallots thyme cream mustard rosemary whitewine chicken pepper vinegar oliveoil blueberries lemonjuice basil salt butter roastedpotatoes,./data/images/dish_1563996509/rgb.png
+dish_1564689078,72.360779,55.0,almonds oliveoil mustard parsley carrot salt blueberries spinachraw vinegar,./data/images/dish_1564689078/rgb.png
+dish_1565894889,257.812988,74.0,cheesepizza cookies,./data/images/dish_1565894889/rgb.png
+dish_1562700496,31.0,124.0,cauliflower,./data/images/dish_1562700496/rgb.png
+dish_1561574479,363.61377,293.0,beef walnuts salt onions bokchoy oliveoil mustard arugula vinegar blueberries chard millet cauliflower cheesepizza spinachcooked caesarsalad shallots pepper,./data/images/dish_1561574479/rgb.png
+dish_1556575327,103.300003,152.0,celery olives brusselssprouts,./data/images/dish_1556575327/rgb.png
+dish_1562876531,66.066925,85.0,pepper chicken wheatberry lemonjuice basil parsley garlic squash spinachraw zucchini rosemary oliveoil thyme caesarsalad salt,./data/images/dish_1562876531/rgb.png
+dish_1558113477,289.050018,50.0,almonds,./data/images/dish_1558113477/rgb.png
+dish_1565986733,387.929382,287.0,whiterice mushroom groundturkey chard celery wheatberry onions oliveoil cream chive garlic salt shallots carrot cherrytomatoes fish eggs thyme kale parsley lemonjuice,./data/images/dish_1565986733/rgb.png
+dish_1560368395,49.320004,137.0,honeydewmelons,./data/images/dish_1560368395/rgb.png
+dish_1562790855,739.376465,507.0,radishes fish cherrytomatoes shallots onions mustard parsley garlic basil salt pepper pork lemonjuice brownrice countryrice cucumbers oliveoil vinegar bellpeppers broccoli greenonions,./data/images/dish_1562790855/rgb.png
+dish_1564428181,510.05069,320.0,garlic oliveoil parsley pecans lemonjuice salt shallots pepper arugula vinegar chard quinoa thyme pork mustard wheatberry jalapenos mayonnaise carrot cabbage blueberries,./data/images/dish_1564428181/rgb.png
+dish_1563998279,565.005005,296.0,chicken cilantro parsley brownrice mushroom steak wheatberry thyme basil whitewine shallots garlic vinegar pepper arugula jalapenos oregano cream tatsoi butter rosemary oliveoil lemonjuice salt roastedpotatoes,./data/images/dish_1563998279/rgb.png
+dish_1562963325,760.161926,379.0,sugar garlic pepper whiterice bokchoy pork salt cheesepizza soysauce caesarsalad,./data/images/dish_1562963325/rgb.png
+dish_1560444914,62.340004,166.0,honeydewmelons pineapple watermelon,./data/images/dish_1560444914/rgb.png
+dish_1560526530,245.280746,242.0,berries mustardgreens parsley tomatoes cucumbers vinegar almonds oliveoil mustard sausage salt carrot potatoes garlic pineapple spinachraw blueberries,./data/images/dish_1560526530/rgb.png
+dish_1564773976,516.089478,463.0,cherrytomatoes chickenbreast shallots oliveoil mayonnaise arugula salmon pepper pickles chive olives salt garlic broccoli parsley kale lemonjuice lentils pineapple,./data/images/dish_1564773976/rgb.png
+dish_1559578551,124.429993,23.0,bacon,./data/images/dish_1559578551/rgb.png
+dish_1565986702,211.343994,204.0,lemonjuice wheatberry parsley cherrytomatoes fish salt garlic shallots chive oliveoil chard,./data/images/dish_1565986702/rgb.png
+dish_1565118729,435.493286,248.0,shallots salt kale onions oliveoil chard vinegar beef spinachcooked millet bokchoy,./data/images/dish_1565118729/rgb.png
+dish_1557936555,149.279999,96.0,eggs,./data/images/dish_1557936555/rgb.png
+dish_1558373074,73.839996,142.0,deprecated,./data/images/dish_1558373074/rgb.png
+dish_1559849053,381.528015,125.0,grapes almonds,./data/images/dish_1559849053/rgb.png
+dish_1568401199,459.643372,343.0,tunasalad squash oliveoil salt,./data/images/dish_1568401199/rgb.png
+dish_1559846688,82.832451,73.0,vinegar beets arugula onions mustard carrot oliveoil salt lettuce,./data/images/dish_1559846688/rgb.png
+dish_1564675380,87.331001,23.0,turkeybacon,./data/images/dish_1564675380/rgb.png
+dish_1563996464,100.489189,146.0,blueberries vinegar arugula chard pepper oliveoil cauliflower walnuts salt mustard,./data/images/dish_1563996464/rgb.png
+dish_1562774159,90.76355,129.0,raspberries vinaigrette cantaloupe granola blackberries mixedgreens berries,./data/images/dish_1562774159/rgb.png
+dish_1560801883,512.111267,315.0,arugula chickenbreast cherrytomatoes spinachraw squash wheatberry parmesancheese garlic rosemary zucchini parsley salt cauliflower whiterice thyme pepperonipizza pork oliveoil onions,./data/images/dish_1560801883/rgb.png
+dish_1561574848,182.258301,155.0,basil fetacheese pepper shallots cucumbers oliveoil blueberries wheatberry vinegar chard chicken cherrytomatoes bellpeppers onions mustard whitewine lemonjuice cream oregano vinaigrette olives mushroom arugula walnuts garlic butter salt rosemary lettuce thyme,./data/images/dish_1561574848/rgb.png
+dish_1563551220,561.703552,558.0,creamcheese berries greekyogurt milk chiaseeds bagels eggwhites oliveoil sweetpotato,./data/images/dish_1563551220/rgb.png
+dish_1563998244,259.479187,170.0,roastedpotatoes whitewine basil cream oregano pepper arugula mushroom shallots garlic salt butter lemonjuice rosemary oliveoil thyme wheatberry chicken,./data/images/dish_1563998244/rgb.png
+dish_1562009006,470.716644,323.0,wheatberry oliveoil jalapenos pork salt pizza cabbage garlic caesarsalad carrot parsley lemonjuice mayonnaise pepper,./data/images/dish_1562009006/rgb.png
+dish_1560800951,102.825645,168.0,parsley cauliflower kale lemonjuice oliveoil pepper bulgur chickpeas salt,./data/images/dish_1560800951/rgb.png
+dish_1557936599,22.049999,63.0,broccoli,./data/images/dish_1557936599/rgb.png
+dish_1560801859,428.704285,262.0,squash onions pepperonipizza arugula parsley garlic whiterice cauliflower rosemary salt zucchini pork oliveoil,./data/images/dish_1560801859/rgb.png
+dish_1568401167,426.360016,228.0,tunasalad,./data/images/dish_1568401167/rgb.png
+dish_1565020755,43.279999,8.0,bacon,./data/images/dish_1565020755/rgb.png
+dish_1560526408,67.098175,51.0,blueberries parsley mustard salt carrot almonds spinachraw vinegar oliveoil,./data/images/dish_1560526408/rgb.png
+dish_1564427455,354.26004,218.0,grilledchicken olives cherrytomatoes,./data/images/dish_1564427455/rgb.png
+dish_1558375667,687.939026,119.0,almonds,./data/images/dish_1558375667/rgb.png
+dish_1557937715,20.669998,39.0,raspberries,./data/images/dish_1557937715/rgb.png
+dish_1562009894,244.80722,200.0,goatcheese olives garlic vinegar brownrice oliveoil mustard salt pears mixedgreens,./data/images/dish_1562009894/rgb.png
+dish_1560526447,88.592773,70.0,salt carrot cucumbers almonds mustardgreens oliveoil mustard parsley vinegar spinachraw blueberries garlic tomatoes,./data/images/dish_1560526447/rgb.png
+dish_1563551164,339.756073,270.0,bagels sweetpotato oliveoil eggwhites creamcheese,./data/images/dish_1563551164/rgb.png
+dish_1568401233,490.393372,418.0,salt squash carrot tunasalad oliveoil,./data/images/dish_1568401233/rgb.png
+dish_1562703447,384.426239,259.0,salt spinachcooked vinegar millet berries beef shallots mixedgreens onions oliveoil pizza lemonjuice parsley bokchoy apple,./data/images/dish_1562703447/rgb.png
+dish_1558030383,140.660004,26.0,bacon,./data/images/dish_1558030383/rgb.png
+dish_1561663541,124.32,112.0,brownrice,./data/images/dish_1561663541/rgb.png
+dish_1560975491,37.84,86.0,caesarsalad,./data/images/dish_1560975491/rgb.png
+dish_1564427430,345.620026,170.0,grilledchicken olives,./data/images/dish_1564427430/rgb.png
+dish_1565898331,155.993118,100.0,spinachraw oliveoil lime cilantro garlic shallots chili salt lemonjuice ginger salmon brownrice jalapenos onions,./data/images/dish_1565898331/rgb.png
+dish_1567785622,30.779999,54.0,berries,./data/images/dish_1567785622/rgb.png
+dish_1562099134,271.641266,188.0,eggplant chickenthighs mushroom vinegar cherrytomatoes lime mixedgreens spinachcooked garlic shallots lemonjuice onions oliveoil pepper quinoa wine carrot cheesepizza salt lettuce cucumbers squash,./data/images/dish_1562099134/rgb.png
+dish_1558461760,10.98,61.0,cherrytomatoes,./data/images/dish_1558461760/rgb.png
+dish_1558030182,67.759995,88.0,potatoes,./data/images/dish_1558030182/rgb.png
+dish_1564689168,352.946991,339.0,lime parsley blueberries vinegar arugula mustard onions almonds mixedgreens carrot salt pears garlic pepper spinachraw tofu lemonjuice cucumbers oliveoil chickpeas cherrytomatoes lettuce,./data/images/dish_1564689168/rgb.png
+dish_1562963246,324.39798,122.0,cheesepizza,./data/images/dish_1562963246/rgb.png
+dish_1565896745,368.540344,244.0,pepper arugula salt garlic walnuts cauliflower vinegar steak chard blueberries wheatberry oliveoil kale mustard lime,./data/images/dish_1565896745/rgb.png
+dish_1560526472,113.672775,114.0,salt carrot tomatoes oliveoil almonds mustard parsley mustardgreens vinegar blueberries spinachraw cucumbers berries garlic,./data/images/dish_1560526472/rgb.png
+dish_1561578839,362.154694,214.0,vinegar mustard cheesepizza salt walnuts broccoli pepper oliveoil chard arugula blueberries,./data/images/dish_1561578839/rgb.png
+dish_1557862783,442.97998,258.0,cauliflower steak chicken,./data/images/dish_1557862783/rgb.png
+dish_1565711527,484.807251,302.0,salt pepper brusselssprouts scrambledeggs oliveoil hashbrowns,./data/images/dish_1565711527/rgb.png
+dish_1565123881,406.821747,515.0,caesarsalad oliveoil onions cheesepizza zucchini spinachcooked millet shallots bokchoy salt beef chayotesquash vinegar,./data/images/dish_1565123881/rgb.png
+dish_1558375833,317.032013,92.0,sausage,./data/images/dish_1558375833/rgb.png
+dish_1565898432,450.224976,282.0,shallots blueberries arugula greenbeans ginger spinachraw brownrice jalapenos chard oliveoil mustard walnuts chili lime garlic cilantro salmon bokchoy beef vinegar pepper lemonjuice onions salt spinachcooked millet,./data/images/dish_1565898432/rgb.png
+dish_1562788536,245.132004,190.0,pilaf cornonthecob,./data/images/dish_1562788536/rgb.png
+dish_1563565508,403.862,387.0,groundturkey vinegar celery onions parmesancheese thyme carrot salt whiterice arugula parsley caesardressing oliveoil chive eggs bokchoy cream mushroom chard kale garlic fish cherrytomatoes wheatberry blueberries lemonjuice cornonthecob mustard pecans shallots croutons,./data/images/dish_1563565508/rgb.png
+dish_1565811025,361.050018,277.0,spinachraw chicken broccoli,./data/images/dish_1565811025/rgb.png
+dish_1566851584,286.294983,222.0,caesarsalad cheesepizza,./data/images/dish_1566851584/rgb.png
+dish_1565020926,398.496124,489.0,oliveoil sweetpotato grapes berries greekyogurt eggwhites chiaseeds milk bacon,./data/images/dish_1565020926/rgb.png
+dish_1566416701,198.53717,122.0,garlic mushroom wheatberry oliveoil butter salt shallots whitewine pepper arugula cream oregano thyme basil rosemary lemonjuice chicken,./data/images/dish_1566416701/rgb.png
+dish_1565034681,323.553284,185.0,walnuts pepper chard blueberries cucumbers lime salt lettuce mustard cheesepizza cherrytomatoes vinegar arugula oliveoil pizza onions mixedgreens,./data/images/dish_1565034681/rgb.png
+dish_1565638515,198.970978,165.0,whiterice garlic onions zucchini parsley oliveoil rosemary pork greenbeans arugula salt,./data/images/dish_1565638515/rgb.png
+dish_1560456305,26.391596,21.0,mixedgreens lettuce pumpkinseeds mustard salt oliveoil vinegar arugula carrot,./data/images/dish_1560456305/rgb.png
+dish_1562876494,40.10693,26.0,pepper chicken squash wheatberry spinachraw zucchini lemonjuice rosemary basil oliveoil garlic thyme salt parsley,./data/images/dish_1562876494/rgb.png
+dish_1558376984,671.67804,350.0,almonds deprecated sausage mixedgreens grapes,./data/images/dish_1558376984/rgb.png
+dish_1561739265,292.040009,308.0,sweetpotato hashbrowns broccoli eggwhites berries,./data/images/dish_1561739265/rgb.png
+dish_1559850314,296.617004,100.0,almonds orange,./data/images/dish_1559850314/rgb.png
+dish_1566920339,449.531708,730.0,eggwhites sweetpotato oliveoil,./data/images/dish_1566920339/rgb.png
+dish_1560801829,256.89563,178.0,squash oliveoil pepperonipizza salt cauliflower,./data/images/dish_1560801829/rgb.png
+dish_1565117429,390.872986,147.0,cheesepizza,./data/images/dish_1565117429/rgb.png
+dish_1564689138,268.266998,223.0,garlic onions lemonjuice mustard oliveoil almonds mixedgreens lime cherrytomatoes pepper cucumbers spinachraw blueberries vinegar arugula parsley lettuce salt carrot chickpeas pears,./data/images/dish_1564689138/rgb.png
+dish_1563897938,54.099998,10.0,bacon,./data/images/dish_1563897938/rgb.png
+dish_1558376437,13.26,39.0,cantaloupe,./data/images/dish_1558376437/rgb.png
+dish_1560367904,76.023148,69.0,oliveoil garlic salt greenonions onions fish countryrice,./data/images/dish_1560367904/rgb.png
+dish_1561661324,33.0,75.0,caesarsalad,./data/images/dish_1561661324/rgb.png
+dish_1564588919,335.944183,452.0,milk greekyogurt eggwhites blueberries sweetpotato oliveoil chiaseeds,./data/images/dish_1564588919/rgb.png
+dish_1558641253,116.709999,110.0,cornonthecob,./data/images/dish_1558641253/rgb.png
+dish_1558031133,136.51001,110.0,yam,./data/images/dish_1558031133/rgb.png
+dish_1562700593,385.773926,384.0,chive apple millet cauliflower pepper vinegar shallots onions snowpeas oliveoil lemonjuice mixedgreens artichokes spinachcooked fish corn lentils arugula parsley bokchoy garlic salt beef,./data/images/dish_1562700593/rgb.png
+dish_1558376212,300.612,52.0,almonds,./data/images/dish_1558376212/rgb.png
+dish_1565898230,780.202026,500.0,garlic bellpeppers beef cherrytomatoes brownrice ginger oliveoil vinegar spinachcooked lime shallots bokchoy salmon millet vinaigrette jalapenos spinachraw greenbeans fetacheese cucumbers lettuce cilantro lemonjuice onions salt chili olives,./data/images/dish_1565898230/rgb.png
+dish_1561574394,61.502373,82.0,walnuts caesarsalad mustard oliveoil vinegar blueberries chard arugula pepper salt,./data/images/dish_1561574394/rgb.png
+dish_1564160043,245.0,98.0,bagels,./data/images/dish_1564160043/rgb.png
+dish_1566501575,251.693985,54.0,brownies,./data/images/dish_1566501575/rgb.png
+dish_1558722125,497.166016,86.0,almonds,./data/images/dish_1558722125/rgb.png
+dish_1558719570,74.360001,143.0,apple,./data/images/dish_1558719570/rgb.png
+dish_1558546434,2.53,11.0,spinachraw,./data/images/dish_1558546434/rgb.png
+dish_1558641200,3.28,8.0,carrot,./data/images/dish_1558641200/rgb.png
+dish_1561578775,295.148987,111.0,cheesepizza,./data/images/dish_1561578775/rgb.png
+dish_1563898019,343.977386,237.0,bacon chiaseeds greekyogurt scrambledeggs milk,./data/images/dish_1563898019/rgb.png
+dish_1561667207,249.444839,121.0,garlic salt sugar bokchoy pork pepper whiterice soysauce,./data/images/dish_1561667207/rgb.png
+dish_1567785778,303.507507,310.0,pineapple bellpeppers berries cucumbers salt mustard oliveoil garlic greekyogurt vinegar radishes milk chiaseeds sweetpotato,./data/images/dish_1567785778/rgb.png
+dish_1568305198,311.354004,82.0,turkeybacon,./data/images/dish_1568305198/rgb.png
+dish_1558639440,60.32,116.0,apple,./data/images/dish_1558639440/rgb.png
+dish_1558630176,73.839996,142.0,apple,./data/images/dish_1558630176/rgb.png
+dish_1558375732,45.540001,66.0,grapes,./data/images/dish_1558375732/rgb.png
+dish_1567007848,100.300003,243.0,watermelon raspberries berries cantaloupe pineapple,./data/images/dish_1567007848/rgb.png
+dish_1566589933,89.060005,122.0,tofu,./data/images/dish_1566589933/rgb.png
+dish_1563565289,93.367996,88.0,cornonthecob,./data/images/dish_1563565289/rgb.png
+dish_1561577848,413.34787,254.0,salt whitewine cream oregano arugula lemonjuice oliveoil pepper chicken mushroom wheatberry butter rosemary thyme shallots garlic basil,./data/images/dish_1561577848/rgb.png
+dish_1566838286,72.5,145.0,pineapple,./data/images/dish_1566838286/rgb.png
+dish_1558630207,670.596008,116.0,almonds,./data/images/dish_1558630207/rgb.png
+dish_1558113430,7.84,28.0,mixedgreens,./data/images/dish_1558113430/rgb.png
+dish_1565123783,93.064995,35.0,cheesepizza,./data/images/dish_1565123783/rgb.png
+dish_1565638478,47.615753,91.0,greenbeans oliveoil,./data/images/dish_1565638478/rgb.png
+dish_1558549806,781.958008,203.0,almonds whiterice spinachraw,./data/images/dish_1558549806/rgb.png
+dish_1561654374,326.35553,251.0,blackberries mixedgreens raspberries scrambledeggs brusselssprouts oliveoil pepper salt vinaigrette granola,./data/images/dish_1561654374/rgb.png
+dish_1561667238,268.80484,165.0,caesarsalad salt sugar garlic soysauce bokchoy whiterice pork pepper,./data/images/dish_1561667238/rgb.png
+dish_1560203400,293.279999,104.0,pepperonipizza,./data/images/dish_1560203400/rgb.png
+dish_1565030391,609.333923,313.0,whiterice garlic orangejuice onions cucumbers kale greenonions lettuce soysauce pepper cherrytomatoes beef vinegar oliveoil broccoli lime salt chili mixedgreens,./data/images/dish_1565030391/rgb.png
+dish_1558635489,78.514,74.0,cornonthecob,./data/images/dish_1558635489/rgb.png
+dish_1560367926,408.523132,194.0,onions fish garlic salt greenonions oliveoil pizza countryrice,./data/images/dish_1560367926/rgb.png
+dish_1566414342,846.367065,552.0,garlic pepper mushroom oregano cream wheatberry butter basil salt shallots whitewine chicken quinoa arugula thyme oliveoil rosemary lemonjuice roastedpotatoes,./data/images/dish_1566414342/rgb.png
+dish_1561654392,494.065491,282.0,oliveoil bacon raspberries salt mixedgreens granola blackberries vinaigrette pepper scrambledeggs brusselssprouts,./data/images/dish_1561654392/rgb.png
+dish_1558718649,25.84,76.0,cantaloupe,./data/images/dish_1558718649/rgb.png
+dish_1562788506,114.587997,108.0,cornonthecob,./data/images/dish_1562788506/rgb.png
+dish_1559849020,46.23,67.0,grapes,./data/images/dish_1559849020/rgb.png
+dish_1567007719,14.28,42.0,cantaloupe,./data/images/dish_1567007719/rgb.png
+dish_1562172643,734.269958,457.0,eggwhites roastedpotatoes bacon,./data/images/dish_1562172643/rgb.png
+dish_1568305225,428.667786,144.0,bellpeppers garlic salt cucumbers mustard oliveoil vinegar turkeybacon radishes,./data/images/dish_1568305225/rgb.png
+dish_1562009810,119.880005,108.0,brownrice,./data/images/dish_1562009810/rgb.png
+dish_1562168800,237.524826,242.0,roastedpotatoes mixedgreens berries raspberries honeydewmelons vinaigrette granola blackberries,./data/images/dish_1562168800/rgb.png
+dish_1560801020,346.339966,250.0,cauliflower garlic spinachraw parmesancheese wheatberry chickpeas pepper chickenbreast cherrytomatoes thyme lemonjuice oliveoil parsley kale bulgur salt,./data/images/dish_1560801020/rgb.png
+dish_1558639412,32.98,97.0,cantaloupe,./data/images/dish_1558639412/rgb.png
+dish_1566849862,77.049995,67.0,olives,./data/images/dish_1566849862/rgb.png
+dish_1561654346,79.195488,84.0,oliveoil vinaigrette pepper mixedgreens granola blackberries salt raspberries brusselssprouts,./data/images/dish_1561654346/rgb.png
+dish_1560801797,25.655659,96.0,oliveoil squash salt cauliflower,./data/images/dish_1560801797/rgb.png
+dish_1562776465,173.432449,212.0,salt pepper sweetpotato oliveoil brusselssprouts,./data/images/dish_1562776465/rgb.png
+dish_1565896662,19.380001,57.0,chard kale,./data/images/dish_1565896662/rgb.png
+dish_1558545738,73.839996,142.0,apple,./data/images/dish_1558545738/rgb.png
+dish_1565123845,268.661774,201.0,oliveoil zucchini onions cheesepizza spinachcooked shallots millet bokchoy salt beef chayotesquash vinegar,./data/images/dish_1565123845/rgb.png
+dish_1558546558,254.364014,44.0,almonds,./data/images/dish_1558546558/rgb.png
+dish_1565898193,291.914032,268.0,brownrice jalapenos greenbeans salmon vinaigrette olives cilantro lime garlic lemonjuice bellpeppers oliveoil fetacheese spinachraw ginger cherrytomatoes shallots chili salt lettuce onions cucumbers,./data/images/dish_1565898193/rgb.png
+dish_1566316726,409.522888,685.0,eggwhites oliveoil sweetpotato,./data/images/dish_1566316726/rgb.png
+dish_1567785654,51.779999,96.0,berries pineapple,./data/images/dish_1567785654/rgb.png
+dish_1565711498,246.827271,229.0,salt pepper brusselssprouts scrambledeggs oliveoil,./data/images/dish_1565711498/rgb.png
+dish_1561578800,338.354706,146.0,cheesepizza salt mustard oliveoil blueberries arugula chard vinegar pepper walnuts,./data/images/dish_1561578800/rgb.png
+dish_1561662869,284.34552,192.0,basil chicken apple chard brownrice lemonjuice rosemary onions salt chive millet cornonthecob vinegar parsley garlic oliveoil carrot mixedgreens,./data/images/dish_1561662869/rgb.png
+dish_1559233627,64.919998,12.0,bacon,./data/images/dish_1559233627/rgb.png
+dish_1563551105,194.399994,72.0,creamcheese bagels,./data/images/dish_1563551105/rgb.png
+dish_1560456326,206.872757,138.0,thyme zucchini lemonjuice salt garlic rosemary parsley chicken vinegar arugula pepper wheatberry oliveoil squash basil mustard lettuce mixedgreens pumpkinseeds carrot spinachraw,./data/images/dish_1560456326/rgb.png
+dish_1563566965,370.827026,286.0,salt parsley wildrice blueberries oliveoil arugula chard mustard pecans vinegar mustardgreens chickpeas garlic pepper,./data/images/dish_1563566965/rgb.png
+dish_1561574456,203.657364,217.0,caesarsalad walnuts cheesepizza salt mustard vinegar blueberries arugula chard oliveoil pepper cauliflower,./data/images/dish_1561574456/rgb.png
+dish_1562776428,33.69978,66.0,brusselssprouts salt pepper oliveoil,./data/images/dish_1562776428/rgb.png
+dish_1558110335,37.869999,7.0,bacon,./data/images/dish_1558110335/rgb.png
+dish_1562774206,298.76355,272.0,mixedgreens raspberries berries scrambledeggs roastedpotatoes vinaigrette cantaloupe blackberries granola,./data/images/dish_1562774206/rgb.png
+dish_1559849537,549.52301,393.0,grapes pears mandarinoranges almonds,./data/images/dish_1559849537/rgb.png
+dish_1559233756,189.850006,222.0,strawberries bacon sweetpotato pineapple,./data/images/dish_1559233756/rgb.png
+dish_1559850338,307.117004,130.0,almonds orange broccoli,./data/images/dish_1559850338/rgb.png
+dish_1562788568,289.203369,230.0,garlic pilaf greenonions onions countryrice oliveoil salt cornonthecob fish,./data/images/dish_1562788568/rgb.png
+dish_1558031237,31.620001,93.0,cantaloupe,./data/images/dish_1558031237/rgb.png
+dish_1558720133,14.25,57.0,cauliflower,./data/images/dish_1558720133/rgb.png
+dish_1558031394,237.410004,318.0,cantaloupe deprecated potatoes yam,./data/images/dish_1558031394/rgb.png
+dish_1559157919,37.094574,39.0,pepper spinachraw arugula blueberries vinegar chard mustard oliveoil walnuts salt,./data/images/dish_1559157919/rgb.png
+dish_1567785739,168.576462,177.0,salt bellpeppers garlic cucumbers oliveoil mustard sweetpotato vinegar berries pineapple radishes,./data/images/dish_1567785739/rgb.png
+dish_1557937615,6.93,21.0,strawberries,./data/images/dish_1557937615/rgb.png
+dish_1558641287,11.52,64.0,cherrytomatoes,./data/images/dish_1558641287/rgb.png
+dish_1565896701,294.47345,184.0,chard oliveoil kale salt lime garlic cauliflower steak wheatberry,./data/images/dish_1565896701/rgb.png
+dish_1560975601,233.935638,253.0,broccoli hominy parsley salt chickenthighs oliveoil chili jalapenos wheatberry cabbage garlic tomatoes lemonjuice caesarsalad lime bellpeppers,./data/images/dish_1560975601/rgb.png
+dish_1564689219,506.847046,474.0,cherrytomatoes spinachraw vinegar almonds oliveoil parsley lemonjuice salt carrot mixedgreens chickpeas garlic pepper arugula lentils blueberries tofu onions mustard cucumbers pears lettuce lime,./data/images/dish_1564689219/rgb.png
+dish_1565020796,90.599998,99.0,eggwhites bacon,./data/images/dish_1565020796/rgb.png
+dish_1566414412,920.120422,658.0,shallots oliveoil garlic lemonjuice basil cream wheatberry mushroom arugula cherrytomatoes quinoa chicken pepper bellpeppers whitewine lettuce fetacheese roastedpotatoes onions butter thyme rosemary cucumbers olives oregano vinaigrette salt,./data/images/dish_1566414412/rgb.png
+dish_1558639482,30.768999,29.0,cornonthecob,./data/images/dish_1558639482/rgb.png
+dish_1563909580,544.311523,361.0,mustardgreens cucumbers tomatoes salt mustard garlic friedrice cheesepizza vinegar spinachraw greenbeans oliveoil,./data/images/dish_1563909580/rgb.png
+dish_1566838317,114.199997,284.0,watermelon pineapple,./data/images/dish_1566838317/rgb.png
+dish_1566920304,296.399994,570.0,eggwhites,./data/images/dish_1566920304/rgb.png
+dish_1558114284,162.230011,316.0,deprecated grapes cantaloupe,./data/images/dish_1558114284/rgb.png
+dish_1567785709,131.250626,138.0,radishes berries salt garlic oliveoil vinegar cucumbers mustard pineapple bellpeppers,./data/images/dish_1567785709/rgb.png
+dish_1558639818,20.059999,59.0,cantaloupe,./data/images/dish_1558639818/rgb.png
+dish_1558722207,83.199997,160.0,apple,./data/images/dish_1558722207/rgb.png
+dish_1558722171,24.25,97.0,cauliflower,./data/images/dish_1558722171/rgb.png
+dish_1561405411,332.063477,282.0,greenbeans broccoli salt pears chicken lemonjuice vinegar arugula spinachraw parsley oliveoil garlic soysauce greenonions chickpeas pepper couscous whiterice ginger,./data/images/dish_1561405411/rgb.png
+dish_1559841979,39.289997,85.0,broccoli mandarinoranges,./data/images/dish_1559841979/rgb.png
+dish_1566328745,282.029999,203.0,chicken cherrytomatoes,./data/images/dish_1566328745/rgb.png
+dish_1558376801,4.2,15.0,mixedgreens,./data/images/dish_1558376801/rgb.png
+dish_1558376483,735.030029,270.0,cantaloupe almonds grapes sausage,./data/images/dish_1558376483/rgb.png
+dish_1561662842,263.125488,172.0,apple vinegar parsley onions carrot salt chive chicken millet garlic chard brownrice lemonjuice rosemary oliveoil basil mixedgreens,./data/images/dish_1561662842/rgb.png
+dish_1562963289,349.917969,180.0,caesarsalad cheesepizza,./data/images/dish_1562963289/rgb.png
+dish_1561147967,177.980042,85.0,chard vinegar mustard oliveoil carrot salt raspberries cheesepizza blueberries arugula almonds,./data/images/dish_1561147967/rgb.png
+dish_1563897087,102.440002,231.0,broccoli eggwhites,./data/images/dish_1563897087/rgb.png
+dish_1559157777,2.53,11.0,spinachraw,./data/images/dish_1559157777/rgb.png
+dish_1565020822,180.56488,193.0,oliveoil eggwhites sweetpotato bacon,./data/images/dish_1565020822/rgb.png
+dish_1561662160,41.838322,36.0,lemonjuice oliveoil onions mixedgreens salt apple millet parsley vinegar,./data/images/dish_1561662160/rgb.png
+dish_1566589967,381.661957,322.0,onions oliveoil garlic bellpeppers salt tomatoes pepper millet chicken spinachraw jalapenos tofu,./data/images/dish_1566589967/rgb.png
+dish_1565118700,16.66,49.0,chard kale,./data/images/dish_1565118700/rgb.png
+dish_1560800988,314.865662,230.0,pepper cauliflower chickpeas salt bulgur oliveoil kale lemonjuice parsley,./data/images/dish_1560800988/rgb.png
+dish_1563294987,97.379997,18.0,bacon,./data/images/dish_1563294987/rgb.png
+dish_1565117463,435.312988,248.0,caesarsalad cheesepizza,./data/images/dish_1565117463/rgb.png
+dish_1567007783,50.0,106.0,cantaloupe berries raspberries,./data/images/dish_1567007783/rgb.png
+dish_1560456348,210.282761,149.0,parsley pumpkinseeds garlic oliveoil thyme zucchini spinachraw vinegar pepper salt mixedgreens carrot greenbeans lemonjuice mustard arugula rosemary wheatberry squash chicken basil lettuce,./data/images/dish_1560456348/rgb.png
+dish_1566849987,562.969971,540.0,olives carrot chicken cherrytomatoes onions,./data/images/dish_1566849987/rgb.png
+dish_1563218408,245.339996,87.0,pepperonipizza,./data/images/dish_1563218408/rgb.png
+dish_1565898128,209.030762,134.0,shallots garlic salmon cilantro onions lime oliveoil ginger jalapenos brownrice spinachraw salt lemonjuice chili,./data/images/dish_1565898128/rgb.png
+dish_1558031351,12.3,41.0,deprecated,./data/images/dish_1558031351/rgb.png
+dish_1565123816,250.916733,110.0,vinegar millet bokchoy beef cheesepizza salt spinachcooked shallots onions oliveoil,./data/images/dish_1565123816/rgb.png
+dish_1563996441,80.239189,65.0,blueberries arugula pepper chard vinegar walnuts salt mustard oliveoil,./data/images/dish_1563996441/rgb.png
+dish_1564773942,491.939545,442.0,garlic salmon cherrytomatoes chickenbreast mayonnaise chive broccoli shallots pineapple pepper pickles arugula lentils oliveoil kale parsley lemonjuice salt,./data/images/dish_1564773942/rgb.png
+dish_1558376768,74.360001,143.0,deprecated,./data/images/dish_1558376768/rgb.png
+dish_1560444967,197.377884,252.0,garlic cucumbers oliveoil mustard honeydewmelons salt bellpeppers yam scrambledeggs pineapple radishes watermelon vinegar,./data/images/dish_1560444967/rgb.png
+dish_1559844323,518.369995,161.0,grapes almonds,./data/images/dish_1559844323/rgb.png
+dish_1561741090,161.540009,221.0,cottagecheese cantaloupe,./data/images/dish_1561741090/rgb.png
+dish_1561393715,17.15,49.0,broccoli,./data/images/dish_1561393715/rgb.png
+dish_1566587182,531.260986,377.0,pepper millet avocado spinachraw vinegar oliveoil onions bellpeppers salt garlic cherrytomatoes chicken jalapenos mustard celeryroot mixedgreens tomatoes,./data/images/dish_1566587182/rgb.png
+dish_1563389548,438.828003,194.0,grilledchicken,./data/images/dish_1563389548/rgb.png
+dish_1558639526,31.98,78.0,carrot,./data/images/dish_1558639526/rgb.png
+dish_1561663606,474.503387,347.0,garlic carrot parsley oliveoil basil rosemary lemonjuice brownrice chard salt cornonthecob chicken chive,./data/images/dish_1561663606/rgb.png
+dish_1557936645,11.88,36.0,strawberries,./data/images/dish_1557936645/rgb.png
+dish_1559844272,462.480011,80.0,almonds,./data/images/dish_1559844272/rgb.png
+dish_1563305513,606.251953,228.0,cheesepizza,./data/images/dish_1563305513/rgb.png
+dish_1567007814,73.0,152.0,pineapple berries raspberries cantaloupe,./data/images/dish_1567007814/rgb.png
+dish_1565118782,557.521606,353.0,shallots salt kale oliveoil onions chard vinegar beef apple mixedgreens spinachcooked lemonjuice parsley bokchoy millet,./data/images/dish_1565118782/rgb.png
+dish_1559578599,229.97998,193.0,bacon strawberries sweetpotato,./data/images/dish_1559578599/rgb.png
+dish_1558718906,282.580017,247.0,cornonthecob cantaloupe cauliflower almonds,./data/images/dish_1558718906/rgb.png
+dish_1564428102,133.219666,107.0,salt garlic oliveoil mustard pecans chard arugula vinegar blueberries,./data/images/dish_1564428102/rgb.png
+dish_1560526490,141.67276,170.0,parsley cucumbers blueberries mustardgreens almonds oliveoil mustard spinachraw pineapple salt carrot tomatoes garlic berries vinegar,./data/images/dish_1560526490/rgb.png
+dish_1561147944,42.371025,34.0,oliveoil mustard carrot salt raspberries almonds arugula vinegar chard blueberries,./data/images/dish_1561147944/rgb.png
+dish_1561393741,188.830002,165.0,broccoli scrambledeggs,./data/images/dish_1561393741/rgb.png
+dish_1562703345,154.279999,58.0,pizza,./data/images/dish_1562703345/rgb.png
+dish_1559239369,130.919998,276.0,berries spinachraw orange,./data/images/dish_1559239369/rgb.png
+dish_1560456370,258.382751,186.0,greenbeans garlic zucchini lemonjuice pumpkinseeds salt thyme carrot chicken rosemary basil vinegar spinachraw whiterice oliveoil squash parsley mustard lettuce mixedgreens pepper wheatberry arugula,./data/images/dish_1560456370/rgb.png
+dish_1566851704,461.160156,348.0,quinoa cabbage pork lemonjuice thyme broccoli cheesepizza pepper wheatberry mayonnaise jalapenos arugula parsley oliveoil carrot salt garlic caesarsalad shallots,./data/images/dish_1566851704/rgb.png
+dish_1558110297,29.07,51.0,berries,./data/images/dish_1558110297/rgb.png
+dish_1559239256,60.16,128.0,orange,./data/images/dish_1559239256/rgb.png
+dish_1562168673,56.354836,73.0,mixedgreens blackberries raspberries honeydewmelons vinaigrette granola,./data/images/dish_1562168673/rgb.png
+dish_1563565415,303.477142,284.0,lemonjuice parsley cherrytomatoes eggs cornonthecob mushroom thyme kale carrot garlic bokchoy fish shallots groundturkey cream onions celery oliveoil wheatberry chive chard salt whiterice,./data/images/dish_1563565415/rgb.png
+dish_1559844458,55.889999,81.0,grapes,./data/images/dish_1559844458/rgb.png
+dish_1564588820,81.119995,156.0,eggwhites,./data/images/dish_1564588820/rgb.png
+dish_1563984199,322.679993,670.0,eggwhites cantaloupe pineapple,./data/images/dish_1563984199/rgb.png
+dish_1559849097,495.928009,325.0,almonds pears grapes,./data/images/dish_1559849097/rgb.png
+dish_1563898107,440.69339,424.0,raspberries greekyogurt blueberries bacon pineapple milk chiaseeds scrambledeggs,./data/images/dish_1563898107/rgb.png
+dish_1563984296,436.337067,871.0,eggwhites oliveoil salsa cantaloupe sweetpotato pineapple,./data/images/dish_1563984296/rgb.png
+dish_1562099157,277.531311,207.0,cheesepizza carrot garlic oliveoil quinoa shallots cherrytomatoes vinegar squash chickenthighs eggplant pepper lettuce lime mixedgreens greenbeans onions lemonjuice cucumbers mushroom wine salt spinachcooked,./data/images/dish_1562099157/rgb.png
+dish_1560800918,70.825645,40.0,parsley pepper chickpeas bulgur salt lemonjuice kale oliveoil,./data/images/dish_1560800918/rgb.png
+dish_1565711453,198.320007,134.0,scrambledeggs,./data/images/dish_1565711453/rgb.png
+dish_1561739160,34.77,61.0,berries,./data/images/dish_1561739160/rgb.png
+dish_1558372948,687.939026,119.0,almonds,./data/images/dish_1558372948/rgb.png
+dish_1561405332,18.549999,53.0,broccoli,./data/images/dish_1561405332/rgb.png
+dish_1563221025,245.445801,123.0,salt whiterice parmesancheese pork spinachraw arugula parsley garlic chickenbreast cherrytomatoes wheatberry onions rosemary zucchini thyme oliveoil,./data/images/dish_1563221025/rgb.png
+dish_1565638550,277.656799,215.0,salt pork wheatberry arugula parsley oliveoil chickenbreast whiterice greenbeans onions spinachraw zucchini rosemary parmesancheese garlic thyme cherrytomatoes,./data/images/dish_1565638550/rgb.png
+dish_1560445004,339.5979,290.0,bellpeppers oliveoil mustard cucumbers vinegar watermelon scrambledeggs bokchoy bacon salt garlic honeydewmelons pineapple yam radishes,./data/images/dish_1560445004/rgb.png
+dish_1566850142,464.951172,284.0,cabbage lime garlic lettuce carrot oliveoil parsley vinegar jalapenos cherrytomatoes salt mixedgreens lemonjuice cucumbers onions mayonnaise wheatberry pork pepper,./data/images/dish_1566850142/rgb.png
+dish_1557937758,106.782997,128.0,blackberries strawberries yam raspberries eggs,./data/images/dish_1557937758/rgb.png
+dish_1563295016,127.879997,79.0,bacon pineapple,./data/images/dish_1563295016/rgb.png
+dish_1558110478,205.438995,161.0,eggs berries bacon yam,./data/images/dish_1558110478/rgb.png
+dish_1558376938,51.060001,74.0,grapes,./data/images/dish_1558376938/rgb.png
+dish_1566849955,147.169998,288.0,olives onions cherrytomatoes carrot,./data/images/dish_1566849955/rgb.png
+dish_1558373008,251.558014,73.0,sausage,./data/images/dish_1558373008/rgb.png
+dish_1566838351,190.009995,417.0,berries watermelon pineapple,./data/images/dish_1566838351/rgb.png
+dish_1563566909,222.530014,187.0,wildrice,./data/images/dish_1563566909/rgb.png
+dish_1557937157,355.25,271.0,strawberries broccoli raspberries eggs bacon,./data/images/dish_1557937157/rgb.png
+dish_1558030289,38.52,107.0,honeydewmelons,./data/images/dish_1558030289/rgb.png
+dish_1559233445,24.5,49.0,pineapple,./data/images/dish_1559233445/rgb.png
+dish_1563898084,419.493378,384.0,bacon milk greekyogurt blueberries scrambledeggs pineapple chiaseeds,./data/images/dish_1563898084/rgb.png
+dish_1557937427,26.434999,17.0,eggs,./data/images/dish_1557937427/rgb.png
+dish_1565034661,219.813263,146.0,lime walnuts mustard oliveoil cucumbers arugula pepper cherrytomatoes lettuce salt mixedgreens onions blueberries vinegar chard cheesepizza,./data/images/dish_1565034661/rgb.png
+dish_1557862696,19.25,77.0,cauliflower,./data/images/dish_1557862696/rgb.png
+dish_1559841950,11.2,32.0,broccoli,./data/images/dish_1559841950/rgb.png
+dish_1559238993,61.559998,108.0,berries,./data/images/dish_1559238993/rgb.png
+dish_1558639849,23.369999,57.0,carrot,./data/images/dish_1558639849/rgb.png
+dish_1561574815,74.852959,89.0,oliveoil blueberries vinaigrette walnuts salt cucumbers onions olives fetacheese arugula vinegar chard pepper cherrytomatoes bellpeppers lettuce mustard,./data/images/dish_1561574815/rgb.png
+dish_1558639555,156.049011,320.0,cantaloupe cornonthecob carrot apple,./data/images/dish_1558639555/rgb.png
+dish_1563551134,246.919983,173.0,bagels creamcheese eggwhites,./data/images/dish_1563551134/rgb.png
+dish_1558376874,335.298004,58.0,almonds,./data/images/dish_1558376874/rgb.png
+dish_1565638599,368.698364,279.0,parmesancheese arugula whiterice garlic parsley onions oliveoil greenbeans pork wheatberry spinachraw chickenbreast cherrytomatoes quinoa salt rosemary zucchini thyme,./data/images/dish_1565638599/rgb.png
+dish_1566502472,132.919037,119.0,sundriedtomatoes garlic oliveoil mustard cucumbers vinegar spinachraw onions cornonthecob salt,./data/images/dish_1566502472/rgb.png
+dish_1562691000,326.621704,349.0,oliveoil pineapple berries broccoli scrambledeggs,./data/images/dish_1562691000/rgb.png
+dish_1563389600,451.428009,264.0,grilledchicken cherrytomatoes,./data/images/dish_1563389600/rgb.png
+dish_1561662926,288.335541,213.0,millet rosemary parsley brownrice lemonjuice vinegar cornonthecob garlic salt apple chicken chard onions basil oliveoil mixedgreens carrot chive,./data/images/dish_1561662926/rgb.png
+dish_1565898402,384.799225,229.0,garlic salmon greenbeans vinegar ginger jalapenos spinachraw onions lime shallots cilantro millet bokchoy spinachcooked brownrice beef oliveoil lemonjuice salt chili,./data/images/dish_1565898402/rgb.png
+dish_1566851677,354.773834,296.0,quinoa broccoli salt arugula parsley lemonjuice garlic oliveoil caesarsalad thyme shallots cheesepizza,./data/images/dish_1566851677/rgb.png
+dish_1565020895,348.126129,416.0,oliveoil bacon eggwhites berries milk chiaseeds greekyogurt sweetpotato,./data/images/dish_1565020895/rgb.png
+dish_1565035746,43.099998,149.0,onions cauliflower,./data/images/dish_1565035746/rgb.png
+dish_1561663580,432.063416,307.0,chicken chard brownrice salt parsley oliveoil rosemary basil lemonjuice chive garlic carrot,./data/images/dish_1561663580/rgb.png
+dish_1557862345,103.949997,63.0,chicken,./data/images/dish_1557862345/rgb.png
+dish_1562774180,164.083557,181.0,cantaloupe raspberries blackberries mixedgreens roastedpotatoes granola vinaigrette berries,./data/images/dish_1562774180/rgb.png
+dish_1563565354,272.315186,193.0,shallots fish cornonthecob mushroom groundturkey cream oliveoil thyme onions lemonjuice salt parsley carrot whiterice cherrytomatoes eggs chard wheatberry kale celery chive garlic,./data/images/dish_1563565354/rgb.png
+dish_1558718587,10.25,41.0,cauliflower,./data/images/dish_1558718587/rgb.png
+dish_1558110436,85.629005,69.0,yam,./data/images/dish_1558110436/rgb.png
+dish_1564588889,234.494431,346.0,eggwhites blueberries greekyogurt chiaseeds milk,./data/images/dish_1564588889/rgb.png
+dish_1562009934,434.914429,369.0,quinoa mixedgreens garlic parsley mustard lemonjuice brownrice arugula vinegar olives shallots pears salt goatcheese thyme oliveoil,./data/images/dish_1562009934/rgb.png
+dish_1562690917,69.061707,122.0,broccoli oliveoil berries,./data/images/dish_1562690917/rgb.png
+dish_1557937574,5.59,13.0,blackberries,./data/images/dish_1557937574/rgb.png
+dish_1564773826,10.08,56.0,cherrytomatoes,./data/images/dish_1564773826/rgb.png
+dish_1563984167,291.679993,608.0,eggwhites cantaloupe,./data/images/dish_1563984167/rgb.png
+dish_1563566939,286.027252,238.0,vinegar blueberries wildrice pecans chard arugula mustard oliveoil garlic salt,./data/images/dish_1563566939/rgb.png
+dish_1563221054,298.877594,170.0,chickenbreast cherrytomatoes vinegar whiterice pork wheatberry spinachraw onions zucchini parsley rosemary oliveoil parmesancheese thyme mustard arugula cranberries garlic salt apple,./data/images/dish_1563221054/rgb.png
+dish_1558375886,1050.511108,277.0,almonds sausage grapes,./data/images/dish_1558375886/rgb.png
+dish_1560975628,348.272644,296.0,broccoli hominy oliveoil bellpeppers garlic parsley caesarsalad jalapenos cabbage wheatberry tomatoes chili lime salt cheesepizza lemonjuice chickenthighs,./data/images/dish_1560975628/rgb.png
+dish_1559578579,142.579987,78.0,bacon strawberries,./data/images/dish_1559578579/rgb.png
+dish_1563221157,418.152008,352.0,salt broccoli lime onions oliveoil rosemary vinegar parmesancheese spinachraw sourcream corn parsley zucchini thyme blackbeans whiterice cheese apple chickenbreast garlic cranberries arugula tortillachips wheatberry pork cherrytomatoes chili mustard tomatoes,./data/images/dish_1563221157/rgb.png
+dish_1559934477,25.08,57.0,caesarsalad,./data/images/dish_1559934477/rgb.png
+dish_1565810969,4.6,20.0,spinachraw,./data/images/dish_1565810969/rgb.png
+dish_1564687013,330.840851,224.0,fish onions steak ketchup vinegar spinachraw whiterice kale jalapenos bellpeppers cilantro lime millet oliveoil shallots salt,./data/images/dish_1564687013/rgb.png
+dish_1562172561,150.799988,290.0,eggwhites,./data/images/dish_1562172561/rgb.png
+dish_1558114145,57.27,83.0,grapes,./data/images/dish_1558114145/rgb.png
+dish_1566414291,345.14212,244.0,oliveoil roastedpotatoes quinoa,./data/images/dish_1566414291/rgb.png
+dish_1561147997,185.180023,133.0,chard vinegar arugula blueberries oliveoil cheesepizza almonds salt raspberries mustard zucchini carrot,./data/images/dish_1561147997/rgb.png
+dish_1565894858,132.839996,27.0,cookies,./data/images/dish_1565894858/rgb.png
+dish_1565034605,52.491199,52.0,lettuce mixedgreens lime oliveoil vinegar cucumbers onions pepper salt cherrytomatoes,./data/images/dish_1565034605/rgb.png
+dish_1563897981,243.540009,138.0,scrambledeggs bacon,./data/images/dish_1563897981/rgb.png
+dish_1567107839,174.284485,156.0,bellpeppers cilantro lime onions kale salt oliveoil ketchup jalapenos fish shallots whiterice,./data/images/dish_1567107839/rgb.png
+dish_1566849895,112.309998,153.0,olives carrot,./data/images/dish_1566849895/rgb.png
+dish_1559850283,271.707001,47.0,almonds,./data/images/dish_1559850283/rgb.png
+dish_1562099076,110.181,61.0,oliveoil pepper cheesepizza salt carrot,./data/images/dish_1562099076/rgb.png
+dish_1563295044,241.975372,158.0,yam sweetpotato pineapple oliveoil bacon,./data/images/dish_1563295044/rgb.png
+dish_1563909550,310.31958,273.0,cucumbers mustard mustardgreens oliveoil garlic greenbeans tomatoes salt friedrice vinegar spinachraw,./data/images/dish_1563909550/rgb.png
+dish_1558114209,30.6,90.0,cantaloupe,./data/images/dish_1558114209/rgb.png
+dish_1563208439,92.610001,96.0,raspberries chickenapplesausage,./data/images/dish_1563208439/rgb.png
+dish_1558635523,55.899998,43.0,whiterice,./data/images/dish_1558635523/rgb.png
+dish_1562690950,109.061714,202.0,pineapple broccoli berries oliveoil,./data/images/dish_1562690950/rgb.png
+dish_1558461792,331.0,233.0,grapes spinachraw cherrytomatoes almonds,./data/images/dish_1558461792/rgb.png
+dish_1562700568,246.864426,318.0,fish pepper arugula lemonjuice parsley snowpeas mixedgreens chive salt corn cauliflower apple millet lentils vinegar oliveoil onions artichokes garlic,./data/images/dish_1562700568/rgb.png
+dish_1564686966,153.204697,65.0,ketchup millet salt bellpeppers oliveoil spinachraw steak vinegar onions,./data/images/dish_1564686966/rgb.png
+dish_1565035774,57.5,185.0,onions cauliflower bellpeppers,./data/images/dish_1565035774/rgb.png
