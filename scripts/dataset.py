@@ -39,7 +39,7 @@ class MultimodalDataset(Dataset):
 def collate_fn(batch, tokenizer):
     texts = [item["text"] for item in batch]
     images = torch.stack([item["image"] for item in batch])
-    results = torch.LongTensor([item["result"] for item in batch])
+    results = torch.tensor([item["result"] for item in batch], dtype=torch.float32)
     masses = torch.tensor([item["mass"] for item in batch], dtype=torch.float32)
 
     tokenized_input = tokenizer(
@@ -57,14 +57,12 @@ def collate_fn(batch, tokenizer):
 
 def get_transforms(config, ds_type="train"):
     cfg = timm.get_pretrained_cfg(config.IMAGE_MODEL_NAME)
-    # TODO: Tweak transforms, if necessary
+    
     if ds_type == "train":
         transforms = A.Compose(
             [
                 A.SmallestMaxSize(
                     max_size=max(cfg.input_size[1], cfg.input_size[2]), p=1.0),
-                A.RandomCrop(
-                    height=cfg.input_size[1], width=cfg.input_size[2], p=1.0),
                 A.Affine(scale=(0.8, 1.2),
                          rotate=(-15, 15),
                          translate_percent=(-0.1, 0.1),
@@ -78,8 +76,6 @@ def get_transforms(config, ds_type="train"):
                                                   int(0.15 * cfg.input_size[2])),
                                 fill=0,
                                 p=0.5),
-                A.ColorJitter(
-                    brightness=0.2, contrast=0.2, saturation=0.2, hue=0.1, p=0.7),
                 A.Normalize(mean=cfg.mean, std=cfg.std),
                 A.ToTensorV2(p=1.0)
             ],
@@ -90,8 +86,6 @@ def get_transforms(config, ds_type="train"):
             [
                 A.SmallestMaxSize(
                     max_size=max(cfg.input_size[1], cfg.input_size[2]), p=1.0),
-                A.CenterCrop(
-                    height=cfg.input_size[1], width=cfg.input_size[2], p=1.0),
                 A.Normalize(mean=cfg.mean, std=cfg.std),
                 A.ToTensorV2(p=1.0)
             ]

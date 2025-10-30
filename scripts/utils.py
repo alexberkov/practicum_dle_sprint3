@@ -21,9 +21,7 @@ def train(model, config, train_loader, val_loader, device):
     optimizer = AdamW([
         {'params': model.text_model.parameters(), 'lr': config.TEXT_LR},
         {'params': model.image_model.parameters(), 'lr': config.IMAGE_LR},
-        {'params': model.image_proj.parameters(), 'lr': config.FUSION_LR},
-        {'params': model.text_proj.parameters(), 'lr': config.FUSION_LR},
-        {'params': model.mass_proj.parameters(), 'lr': config.FUSION_LR},
+        {'params': model.attn.parameters(), 'lr': config.ATTENTION_LR},
         {'params': model.regressor.parameters(), 'lr': config.REGRESSOR_LR}
     ])
 
@@ -40,6 +38,7 @@ def train(model, config, train_loader, val_loader, device):
                 'image': batch['image'].to(device),
                 'mass': batch['mass'].to(device)
             }
+
             results = batch['result'].to(device)
 
             optimizer.zero_grad()
@@ -64,7 +63,7 @@ def train(model, config, train_loader, val_loader, device):
             break
 
 
-def validate(model, criterion, val_loader, device, verbose=False):
+def validate(model, criterion, val_loader, device):
     model.eval()
     val_loss = 0.0
 
@@ -79,10 +78,8 @@ def validate(model, criterion, val_loader, device, verbose=False):
             results = batch['result'].to(device)
 
             predictions = model(**inputs)
+
             loss = criterion(predictions, results)
             val_loss += loss.item()
-
-            if verbose:
-                print(loss)
 
     return val_loss / len(val_loader)
