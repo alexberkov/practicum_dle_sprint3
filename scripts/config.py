@@ -8,7 +8,8 @@ class Config:
     BATCH_SIZE = 32
     TEXT_LR = 3e-5
     IMAGE_LR = 1e-4
-    REGRESSOR_LR = 5e-4
+    REGRESSOR_LR = 1e-3
+    FUSION_LR = 1e-3
     EPOCHS = 10
     DROPOUT_PROB = 0.3
     HIDDEN_DIM = 256

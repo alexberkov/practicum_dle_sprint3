@@ -40,17 +40,16 @@ def collate_fn(batch, tokenizer):
     texts = [item["text"] for item in batch]
     images = torch.stack([item["image"] for item in batch])
     results = torch.LongTensor([item["result"] for item in batch])
-    masses = torch.stack([item["mass"] for item in batch])
+    masses = torch.tensor([item["mass"] for item in batch], dtype=torch.float32)
 
     tokenized_input = tokenizer(
         texts, return_tensors="pt", padding="max_length", truncation=True
     )
-    normalized_masses = (masses - masses.mean()) / masses.std()
 
     return {
         "result": results,
         "image": images,
-        "mass": normalized_masses,
+        "mass": masses,
         "input_ids": tokenized_input["input_ids"],
         "attention_mask": tokenized_input["attention_mask"]
     }

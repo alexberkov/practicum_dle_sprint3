@@ -21,10 +21,13 @@ def train(model, config, train_loader, val_loader, device):
     optimizer = AdamW([
         {'params': model.text_model.parameters(), 'lr': config.TEXT_LR},
         {'params': model.image_model.parameters(), 'lr': config.IMAGE_LR},
+        {'params': model.image_proj.parameters(), 'lr': config.FUSION_LR},
+        {'params': model.text_proj.parameters(), 'lr': config.FUSION_LR},
+        {'params': model.mass_proj.parameters(), 'lr': config.FUSION_LR},
         {'params': model.regressor.parameters(), 'lr': config.REGRESSOR_LR}
     ])
 
-    criterion = nn.L1Loss()
+    criterion = nn.SmoothL1Loss()
 
     for epoch in range(config.EPOCHS):
         model.train()
