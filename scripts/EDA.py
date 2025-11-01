@@ -21,7 +21,7 @@ def analyze_num_cols(df: DataFrame, to_drop=None):
 
 
 def plot_images(df: DataFrame, dish_ids: list[str]):
-    fig, axes = plt.subplots(nrows=len(dish_ids) // 4 + 1, ncols=4, figsize=(20, 15))
+    fig, axes = plt.subplots(nrows=len(dish_ids) // 4, ncols=4, figsize=(20, 15))
     idx = 0
     axes = axes.flatten()
     for ax in axes:

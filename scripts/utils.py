@@ -91,12 +91,13 @@ def validate(model, criterion, val_loader, device, test=False):
             loss = criterion(predictions, results)
 
             if test:
+                val_loss += loss.mean()
                 for dish, error in zip(batch['dish_id'], list(loss)):
                     all_results[dish] = error
             else:
                 val_loss += loss.item()
     
     if test:
-        return val_loss / len(val_loader), sorted(all_results.items(), key=lambda item: item[1], reverse=True)[:5]
+        return val_loss / len(val_loader), sorted(all_results.items(), key=lambda item: item[1], reverse=True)[:8]
 
     return val_loss / len(val_loader), None
