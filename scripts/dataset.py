@@ -30,28 +30,32 @@ class MultimodalDataset(Dataset):
         result = self.df.loc[idx, "total_calories"]
         image = Image.open(self.df.loc[idx, "image_path"]).convert('RGB')
         mass = self.df.loc[idx, "total_mass"]
+        dish_id = self.df.loc[idx, "dish_id"]
 
         transformed_image = self.transforms(image=np.array(image))["image"]
 
-        return {"result": result, "image": transformed_image, "text": text, "mass": mass}
+        return {"result": result, "image": transformed_image, "text": text, "mass": mass, "dish_id": dish_id}
 
 
 def collate_fn(batch, tokenizer):
     texts = [item["text"] for item in batch]
     images = torch.stack([item["image"] for item in batch])
-    results = torch.tensor([item["result"] for item in batch], dtype=torch.float32)
+    results = torch.tensor([item["result"] for item in batch], dtype=torch.float32).unsqueeze(1)
     masses = torch.tensor([item["mass"] for item in batch], dtype=torch.float32)
 
     tokenized_input = tokenizer(
         texts, return_tensors="pt", padding="max_length", truncation=True
     )
 
+    dish_ids = [item["dish_id"] for item in batch]
+
     return {
         "result": results,
         "image": images,
         "mass": masses,
         "input_ids": tokenized_input["input_ids"],
-        "attention_mask": tokenized_input["attention_mask"]
+        "attention_mask": tokenized_input["attention_mask"],
+        "dish_id": dish_ids
     }
 
 

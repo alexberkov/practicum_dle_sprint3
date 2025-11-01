@@ -5,13 +5,19 @@ class Config:
     TEXT_MODEL_UNFREEZE = "encoder.layer.11|pooler"
     IMAGE_MODEL_UNFREEZE = "layer.3|layer.4"
 
-    BATCH_SIZE = 64
-    TEXT_LR = 1e-5
-    IMAGE_LR = 3e-5
+    BATCH_SIZE = 32
+    EPOCHS = 15
+    DROPOUT_PROB = 0.25
+
+    TEXT_LR = 1e-4
+    IMAGE_LR = 1e-4
     REGRESSOR_LR = 1e-3
-    ATTENTION_LR = 1e-4
-    EPOCHS = 10
-    DROPOUT_PROB = 0.20
+    PROJ_LR = 1e-3
+    FUSION_LR = 1e-3
+
+    TEXT_DIM = 512
+    IMAGE_DIM = 256
+    MASS_DIM = 32
     HIDDEN_DIM = 256
 
     TARGET_LOSS = 50

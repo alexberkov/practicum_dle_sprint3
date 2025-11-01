@@ -1,4 +1,3 @@
-import random
 from IPython.display import display
 
 import matplotlib.pyplot as plt
@@ -21,18 +20,18 @@ def analyze_num_cols(df: DataFrame, to_drop=None):
         plt.show()
 
 
-def plot_images(df: DataFrame, total_images: int = 10):
-    fig, axes = plt.subplots(nrows=total_images // 4 + 1, ncols=4, figsize=(20, 15))
+def plot_images(df: DataFrame, dish_ids: list[str]):
+    fig, axes = plt.subplots(nrows=len(dish_ids) // 4 + 1, ncols=4, figsize=(20, 15))
     idx = 0
-    image_indices = random.sample(range(0, df.shape[0]), total_images)
     axes = axes.flatten()
     for ax in axes:
-        image = Image.open(df.loc[image_indices[idx], "image_path"]).convert('RGB')
+        image_path = df.loc[df["dish_id"] == dish_ids[idx], "image_path"].item()
+        image = Image.open(image_path).convert('RGB')
         ax.imshow(image)
-        ax.set_title(df.loc[image_indices[idx], "dish_id"])
+        ax.set_title(dish_ids[idx])
         ax.axis('off')
         idx += 1
-        if idx >= total_images:
+        if idx >= len(dish_ids):
             break
     plt.tight_layout()
     plt.show()
